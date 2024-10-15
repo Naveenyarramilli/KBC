@@ -1,0 +1,9 @@
+.details-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    color:greenyellow;
+    background: linear-gradient(green,blue,pink);
+}

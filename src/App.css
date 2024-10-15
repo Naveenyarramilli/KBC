@@ -1,4 +1,14 @@
-.container{
+/* card */
+body {
+  font-family: 'Arial', sans-serif;
+ 
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/*.container{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -45,4 +55,4 @@ border-radius:50%;
 background-color:black;
 
   
-}
+}*/
